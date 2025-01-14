@@ -23,7 +23,7 @@ To view the project locally, follow these steps:
    git clone https://github.com/KrishnaCodeCrafter/Spotify-Clone.git
 2. **Navigate to the Project Directory**  
    ```bash
-   cd spotify-clone
+   cd Spotify-Clone
 
 3. **Open in Browser**
  
