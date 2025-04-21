@@ -1,4 +1,4 @@
-# Spotify Clone
+# Spotify Clone 
 
 A static Spotify Clone website designed using HTML and CSS. This project focuses on replicating the user interface of Spotify, showcasing modern web design skills with responsive and visually appealing layouts.
 
